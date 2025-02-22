@@ -18,4 +18,4 @@ In this project I've created a Real-Time Collaborative Code Editor, which allows
 
 ## Output
 
-![expected output](/src/codeSync.png)
+![expected output](/codeSync.png)
